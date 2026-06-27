@@ -1,0 +1,4 @@
+aiogram
+deep-translator
+groq
+requests
