@@ -14,7 +14,7 @@ from deep_translator import GoogleTranslator  # Konfliktsiz, mutlaqo yangi xavfs
 from groq import Groq
 
 # --- KONFIGURATSIYA ---
-TOKEN = "8753014084:AAHa3nPmrACQ5Q5StJutwF4WweqWYJiu9w4"
+TOKEN = "8753014084:AAG_gd-1X5OQUbYpfRCeFcRffH7TI7m8FNQ"
 GROQ_API_KEY = "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"
 
 AUTHOR = "Gulmuratov Javohir"
